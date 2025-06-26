@@ -60,7 +60,7 @@
     }
 
     .hero img:hover {
-      transform: scale(1.05);
+      transform: scale(1.10);
     }
 
     .products {
@@ -80,6 +80,7 @@
 
     .product:hover {
       transform: translateY(-5px);
+      transform: scale(1.20);
     }
 
     .product img {
