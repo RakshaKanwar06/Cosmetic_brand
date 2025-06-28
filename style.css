@@ -116,10 +116,6 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
 
-    .gallery-images img :hover {
-      transform: scale(1.20);
-    }
-
     .contact p a i {
       font-size: 25px;
     }
